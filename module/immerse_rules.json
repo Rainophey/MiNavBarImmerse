@@ -4022,7 +4022,7 @@
       "enable": true,
       "activityRules": {
         "*": {
-          "mode": 1,
+          "mode": 2,
           "color": null
         }
       }
