@@ -4997,7 +4997,7 @@
     },
     "com.taobao.taobao": {
       "name": "淘宝",
-      "enable": false,
+      "enable": true,
       "activityRules": {
         "*": {
           "mode": 2,
