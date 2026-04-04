@@ -4997,149 +4997,19 @@
     },
     "com.taobao.taobao": {
       "name": "淘宝",
-      "enable": true,
+      "enable": false,
       "activityRules": {
         "*": {
           "mode": 2,
           "color": null
         },
-        "com.alibaba.android.ultron.vfw.weex2.highPerformance.widget.UltronTradeHybridActivity": {
-          "mode": 0,
-          "color": null,
-          "sf_sampling_mode": 0
-        },
-        "com.alibaba.triver.container.TriverMainActivity": {
+        "com.taobao.mytaobao.newsetting.dx.DxSettingCommonActivity": {
           "mode": 1,
-          "color": 1,
-          "sf_sampling_mode": 1
-        },
-        "com.alibaba.triver.triver_shop.container.ShopLoftActivity": {
-          "mode": -1,
-          "color": null,
-          "sf_sampling_mode": 1
-        },
-        "com.alibaba.triver.triver_shop.newShop.ShopActivity": {
-          "mode": 1,
-          "color": 0
-        },
-        "com.taobao.android.detail.alittdetail.TTDetailActivity": {
-          "mode": 0,
-          "color": null,
-          "sf_sampling_mode": 0
-        },
-        "com.taobao.android.detail.wrapper.activity.DetailActivity": {
-          "mode": 1,
-          "color": 1,
-          "sf_sampling_mode": 0
-        },
-        "com.taobao.android.detail2.core.framework.NewDetailActivity": {
-          "mode": 2,
-          "color": null,
-          "sf_sampling_mode": 0
-        },
-        "com.taobao.android.layoutmanager.container.MultiPageTransparentContainerActivity": {
-          "mode": 1,
-          "color": 1,
-          "sf_sampling_mode": 1
-        },
-        "com.taobao.android.purchase.aura.TBBuyActivity": {
-          "mode": 1,
-          "color": 1,
-          "sf_sampling_mode": 0
-        },
-        "com.taobao.android.tbabilitykit.pop.StdPopActivityGroup": {
-          "mode": 0,
-          "color": null,
-          "sf_sampling_mode": 1
-        },
-        "com.taobao.android.tbabilitykit.pop.StdPopContainerActivity": {
-          "mode": 0,
-          "color": null,
-          "sf_sampling_mode": 1
-        },
-        "com.taobao.browser.BrowserActivity": {
-          "mode": 2,
           "color": null
         },
-        "com.taobao.message.activity.ChatActivity": {
-          "mode": 0,
-          "color": null,
-          "sf_sampling_mode": 1
-        },
-        "com.taobao.message.activity.ChatActivityV2": {
-          "mode": 0,
-          "color": null,
-          "sf_sampling_mode": 1
-        },
-        "com.taobao.message.activity.ShareShopActivity": {
-          "mode": 1,
-          "color": 1,
-          "sf_sampling_mode": 0
-        },
-        "com.taobao.message.ui.biz.map.MapActivity": {
-          "mode": 1,
-          "color": 1,
-          "sf_sampling_mode": 0
-        },
-        "com.taobao.search.searchdoor.SearchDoorActivity": {
-          "mode": 0,
-          "color": null,
-          "sf_sampling_mode": 0
-        },
-        "com.taobao.search.uniform.SearchActivity": {
-          "mode": 0,
-          "color": null,
-          "sf_sampling_mode": 0
-        },
-        "com.taobao.tao.TBMainActivity": {
-          "mode": 0,
-          "color": null,
-          "sf_sampling_mode": 1
-        },
         "com.taobao.tao.welcome.Welcome": {
-          "mode": 0,
-          "color": null,
-          "sf_sampling_mode": 0
-        },
-        "com.taobao.taolive.room.TaoLiveVideoActivity": {
-          "mode": 0,
-          "color": null,
-          "sf_sampling_mode": 0
-        },
-        "com.taobao.taolivehome.TaoLiveHomepageActivity": {
-          "mode": 0,
-          "color": null,
-          "sf_sampling_mode": 0
-        },
-        "com.taobao.taopai.business.image.album.ImageGalleryActivity": {
-          "mode": -1,
-          "color": null,
-          "sf_sampling_mode": 1
-        },
-        "com.taobao.taopai.business.record.fragment.TPRecordActivity": {
-          "mode": 1,
-          "color": -16777216,
-          "sf_sampling_mode": 0
-        },
-        "com.taobao.taopai2.album.MediaPreviewActivity": {
-          "mode": -1,
-          "color": null,
-          "sf_sampling_mode": 1
-        },
-        "com.taobao.themis.container.app.TMSActivity": {
-          "mode": 0,
-          "color": null,
-          "sf_sampling_mode": 1
-        },
-        "com.taobao.umipublish.weex.LcWeexPublishActivity": {
-          "mode": 1,
-          "color": 1,
-          "sf_sampling_mode": 0
-        },
-        "com.taobao.weex.weexv2.page.WeexV2Activity": {
-          "mode": 0,
-          "color": null,
-          "sf_sampling_mode": 1
+          "mode": 2,
+          "color": null
         }
       }
     },
@@ -7110,23 +6980,6 @@
       "enable": true,
       "activityRules": {
         "*": {
-          "mode": 2,
-          "color": null
-        }
-      }
-    },
-    "com.taobao.taobao":{
-      "name":"淘宝",
-      "activityRules":{
-        "*":{
-          "mode": 2,
-          "color": null
-        },
-        "com.taobao.mytaobao.newsetting.dx.DxSettingCommonActivity":{
-          "mode": 1,
-          "color": null
-        },
-        "com.taobao.tao.welcome.Welcome":{
           "mode": 2,
           "color": null
         }
