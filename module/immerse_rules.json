@@ -7114,6 +7114,23 @@
           "color": null
         }
       }
+    }，
+    "com.taobao.taobao":{
+      "name":"淘宝",
+      "activityRules":{
+        "*":{
+          "mode": 2,
+          "color": null
+        },
+        "com.taobao.mytaobao.newsetting.dx.DxSettingCommonActivity":{
+          "mode": 1,
+          "color": null
+        },
+        "com.taobao.tao.welcome.Welcome":{
+          "mode": 2,
+          "color": null
+        }
+      }
     }
   }
 }
