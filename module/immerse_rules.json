@@ -3485,7 +3485,7 @@
         },
         "com.dianping.gcmrn.ssr.GCMRNSSRActivity": {
           "mode": 2,
-          "color": null,
+          "color": null
         },
         "com.dianping.live.live.mrn.MLiveMRNActivity": {
           "mode": 0,
@@ -3514,27 +3514,27 @@
         },
         "com.meituan.android.hotel.reuse.htchomepage.HtcHomepageActivity": {
           "mode": 1,
-          "color": null,
+          "color": null
         },
         "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity": {
           "mode": 1,
-          "color": null,
+          "color": null
         },
         "com.meituan.android.movie.MoiveMainActivity": {
           "mode": 1,
-          "color": null,
+          "color": null
         },
         "com.meituan.android.mrn.container.MRNBaseActivity": {
           "mode": 1,
-          "color": null,
+          "color": null
         },
         "com.meituan.android.mrn.container.MRNStandardActivity": {
           "mode": 2,
-          "color": null,
+          "color": null
         },
         "com.meituan.android.pt.homepage.activity.MainActivity": {
           "mode": 1,
-          "color": null,
+          "color": null
         },
         "com.meituan.android.scan.NewArActivity": {
           "mode": 2,
@@ -3548,7 +3548,7 @@
         },
         "com.meituan.msc.modules.container.MSCActivity": {
           "mode": 1,
-          "color": null,
+          "color": null
         },
         "com.meituan.msc.modules.container.MSCTransparentActivity": {
           "mode": 1,
@@ -3592,11 +3592,11 @@
         },
         "com.sankuai.waimai.store.drug.home.NewDrugHomeActivity": {
           "mode": 1,
-          "color": null,
+          "color": null
         },
         "com.sankuai.waimai.business.knb.TakeoutKNBWebActivity": {
           "mode": 1,
-          "color": null,
+          "color": null
         }
       }
     },
@@ -5213,7 +5213,7 @@
         },
         "com.tencent.mm.framework.app.UIPageFragmentActivity": {
           "mode": 2,
-          "color": null,
+          "color": null
         },
         "com.tencent.mm.plugin.account.ui.MobileInputUI": {
           "mode": -1,
@@ -5227,7 +5227,7 @@
         },
         "com.tencent.mm.plugin.appbrand.ui.AppBrandPluginUI": {
           "mode": 2,
-          "color": null,
+          "color": null
         },
         "com.tencent.mm.plugin.appbrand.ui.AppBrandUI*": {
           "mode": 0,
@@ -5291,7 +5291,7 @@
         },
         "com.tencent.mm.ui.vas.VASCommonActivity": {
           "mode": 2,
-          "color": null,
+          "color": null
         },
         "com.tencent.mm.ui.chatting.ChattingUI": {
           "mode": 0,
