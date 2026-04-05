@@ -3063,6 +3063,20 @@
         }
       }
     },
+    "com.nasoft.socmark": {
+      "name": "手机性能排行",
+      "enable": true,
+      "activityRules": {
+        "*": {
+          "mode": 2,
+          "color": null
+        },
+        "com.nasoft.socmark.ui.MainActivity": {
+          "mode": 1,
+          "color": 1
+        }
+      }
+    },
     "com.netease.cloudmusic": {
       "name": "网易云音乐",
       "enable": true,
@@ -7140,20 +7154,6 @@
         "*": {
           "mode": 2,
           "color": null
-        }
-      }
-    },
-    "com.nasoft.socmark": {
-      "name": "手机性能排行",
-      "enable": true,
-      "activityRules": {
-        "*": {
-          "mode": 2,
-          "color": null
-        },
-        "com.nasoft.socmark.ui.MainActivity": {
-          "mode": 1,
-          "color": 1
         }
       }
     }
