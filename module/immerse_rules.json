@@ -1462,7 +1462,7 @@
         },
         "com.meituan.msc.modules.container.MSCActivity": {
           "mode": 1,
-          "color": null
+          "color": 1
         },
         "com.meituan.traveltools.mrncontainer.HTMRNBaseActivity": {
           "mode": 0,
