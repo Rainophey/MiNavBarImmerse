@@ -5343,7 +5343,8 @@
         },
         "com.tencent.mm.plugin.finder.ui.FinderHomeUI":{
           "mode": 1,
-          "color": 1
+          "color": null,
+          "sf_sampling_mode": 1
         },
         "com.tencent.mm.framework.app.UIPageFragmentActivity": {
           "mode": 2,
@@ -5420,8 +5421,7 @@
         },
         "com.tencent.mm.ui.LauncherUI": {
           "mode": 1,
-          "color": null,
-          "sf_sampling_mode": 1
+          "color": 1
         },
         "com.tencent.mm.ui.vas.VASCommonActivity": {
           "mode": 2,
