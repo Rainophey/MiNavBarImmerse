@@ -2846,8 +2846,8 @@
           "color": null
         },
         "com.xiaomi.fitness.main.MainActivity": {
-          "mode": 1,
-          "color": 1
+          "mode": 2,
+          "color": null
         },
         "com.xiaomi.wearable.yrn.views.WearableRNActivity": {
           "mode": 2,
@@ -7140,6 +7140,20 @@
         "*": {
           "mode": 2,
           "color": null
+        }
+      }
+    },
+    "com.nasoft.socmark": {
+      "name": "手机性能排行",
+      "enable": true,
+      "activityRules": {
+        "*": {
+          "mode": 2,
+          "color": null
+        },
+        "com.nasoft.socmark.ui.MainActivity": {
+          "mode": 1,
+          "color": 1
         }
       }
     }
