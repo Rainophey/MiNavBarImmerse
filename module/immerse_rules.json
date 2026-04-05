@@ -5420,8 +5420,7 @@
         },
         "com.tencent.mm.ui.LauncherUI": {
           "mode": 1,
-          "color": 1,
-          "sf_sampling_mode": 1
+          "color": 1
         },
         "com.tencent.mm.ui.vas.VASCommonActivity": {
           "mode": 2,
