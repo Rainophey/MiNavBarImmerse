@@ -5341,6 +5341,10 @@
           "mode": 2,
           "color": null
         },
+        "com.tencent.mm.plugin.finder.ui.FinderHomeUI":{
+          "mode": 1,
+          "color": 1
+        },
         "com.tencent.mm.framework.app.UIPageFragmentActivity": {
           "mode": 2,
           "color": null
