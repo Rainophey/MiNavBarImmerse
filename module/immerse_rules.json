@@ -2846,8 +2846,8 @@
           "color": null
         },
         "com.xiaomi.fitness.main.MainActivity": {
-          "mode": 2,
-          "color": null
+          "mode": 1,
+          "color": 1
         },
         "com.xiaomi.wearable.yrn.views.WearableRNActivity": {
           "mode": 2,
@@ -7127,6 +7127,16 @@
       "name": "KonaBess",
       "enable": true,
       "activityRules": {
+        "*": {
+          "mode": 2,
+          "color": null
+        }
+      }
+    },
+    "com.primatelabs.geekbench6":{
+      "name": "Geekbench 6",
+      "enable": true,
+      "activityRules":{
         "*": {
           "mode": 2,
           "color": null
