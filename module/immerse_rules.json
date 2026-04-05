@@ -3514,19 +3514,19 @@
         },
         "com.meituan.android.hotel.reuse.htchomepage.HtcHomepageActivity": {
           "mode": 1,
-          "color": null
+          "color": 1
         },
         "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity": {
           "mode": 1,
-          "color": null
+          "color": 1
         },
         "com.meituan.android.movie.MoiveMainActivity": {
           "mode": 1,
-          "color": null
+          "color": 1
         },
         "com.meituan.android.mrn.container.MRNBaseActivity": {
           "mode": 1,
-          "color": null
+          "color": 1
         },
         "com.meituan.android.mrn.container.MRNStandardActivity": {
           "mode": 2,
@@ -3534,7 +3534,7 @@
         },
         "com.meituan.android.pt.homepage.activity.MainActivity": {
           "mode": 1,
-          "color": null
+          "color": 1
         },
         "com.meituan.android.scan.NewArActivity": {
           "mode": 2,
@@ -3548,7 +3548,7 @@
         },
         "com.meituan.msc.modules.container.MSCActivity": {
           "mode": 1,
-          "color": null
+          "color": 1
         },
         "com.meituan.msc.modules.container.MSCTransparentActivity": {
           "mode": 1,
@@ -3592,11 +3592,11 @@
         },
         "com.sankuai.waimai.store.drug.home.NewDrugHomeActivity": {
           "mode": 1,
-          "color": null
+          "color": 1
         },
         "com.sankuai.waimai.business.knb.TakeoutKNBWebActivity": {
           "mode": 1,
-          "color": null
+          "color": 1
         }
       }
     },
