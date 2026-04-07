@@ -631,10 +631,9 @@
           "mode": 1,
           "color": 1
         },
-        "com.taobao.message.chat.page.chat.ChatActivity": {
-          "mode": -1,
-          "color": null,
-          "sf_sampling_mode": 1
+        "com.alibaba.wireless.popwindow.core.PopPageWindow": {
+          "mode": 2,
+          "color": null
         }
       }
     },
