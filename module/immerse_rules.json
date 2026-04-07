@@ -635,6 +635,7 @@
         "com.alibaba.wireless.workbench.myali.mywidget.ImagePagerDialog": {
           "mode": 1,
           "color": 1
+        }
       }
     },
     "com.alicloud.databox": {
@@ -7155,5 +7156,5 @@
         }
       }
     }
-  }
+  } 
 }
