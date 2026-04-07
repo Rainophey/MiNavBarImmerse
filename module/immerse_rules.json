@@ -618,6 +618,10 @@
           "sf_sampling_mode": 0,
           "dialogMode": 0
         },
+        "com.alibaba.wireless.popwindow.core.PopPageWindow": {
+          "mode": 2,
+          "color": null
+        },
         "com.alibaba.wireless.share.ShareActivity": {
           "mode": -1,
           "color": null,
@@ -630,10 +634,6 @@
         "com.alibaba.wireless.workbench.myali.mywidget.ImagePagerDialog": {
           "mode": 1,
           "color": 1
-        },
-        "com.alibaba.wireless.popwindow.core.PopPageWindow": {
-          "mode": 2,
-          "color": null
         }
       }
     },
