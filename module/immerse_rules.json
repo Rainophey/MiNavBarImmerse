@@ -7514,9 +7514,9 @@
           "appNavColorDisabled": 0
         },
         "com.ss.android.ugc.aweme.setting.ui.DouYinSettingNewVersionActivity": {
-          "mode": 2,
-          "color": null,
-          "sf_sampling_mode": 0,
+          "mode": 1,
+          "color": 1,
+          "sf_sampling_mode": 1,
           "dialogMode": 1,
           "popupMode": 1,
           "appNavColorDisabled": 0
@@ -8997,8 +8997,8 @@
           "appNavColorDisabled": 0
         },
         "com.tencent.mm.plugin.lite.ui.WxaLiteAppLiteUI": {
-          "mode": 1,
-          "color": 1,
+          "mode": 2,
+          "color": null,
           "sf_sampling_mode": 0,
           "dialogMode": 1,
           "popupMode": 1,
@@ -9071,7 +9071,7 @@
         "com.tencent.mm.ui.chatting.ChattingUI": {
           "mode": 0,
           "color": null,
-          "sf_sampling_mode": 0,
+          "sf_sampling_mode": 1,
           "dialogMode": 1,
           "popupMode": 1,
           "appNavColorDisabled": 0
@@ -11863,6 +11863,20 @@
       "enable": true,
       "activityRules": {
         "*": {
+          "mode": 2,
+          "color": null,
+          "sf_sampling_mode": 0,
+          "dialogMode": 1,
+          "popupMode": 1,
+          "appNavColorDisabled": 0
+        }
+      }
+    },
+    "com.microsoft.office.outlook": {
+      "name": "Outlook",
+      "enable": true,
+      "activityRules": {
+        "com.acompli.acompli.CentralActivity": {
           "mode": 2,
           "color": null,
           "sf_sampling_mode": 0,
