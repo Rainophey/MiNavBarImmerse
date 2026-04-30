@@ -4832,6 +4832,20 @@
         }
       }
     },
+    "com.microsoft.office.outlook": {
+      "name": "Outlook",
+      "enable": true,
+      "activityRules": {
+        "com.acompli.acompli.CentralActivity": {
+          "mode": 2,
+          "color": null,
+          "sf_sampling_mode": 0,
+          "dialogMode": 1,
+          "popupMode": 1,
+          "appNavColorDisabled": 0
+        }
+      }
+    },
     "com.microsoft.todos": {
       "name": "To Do",
       "enable": true,
@@ -11863,20 +11877,6 @@
       "enable": true,
       "activityRules": {
         "*": {
-          "mode": 2,
-          "color": null,
-          "sf_sampling_mode": 0,
-          "dialogMode": 1,
-          "popupMode": 1,
-          "appNavColorDisabled": 0
-        }
-      }
-    },
-    "com.microsoft.office.outlook": {
-      "name": "Outlook",
-      "enable": true,
-      "activityRules": {
-        "com.acompli.acompli.CentralActivity": {
           "mode": 2,
           "color": null,
           "sf_sampling_mode": 0,
