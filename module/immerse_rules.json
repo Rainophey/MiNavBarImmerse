@@ -11885,6 +11885,20 @@
           "appNavColorDisabled": 0
         }
       }
+    },
+    "com.unionpay.tsmservice.mi": {
+      "name": "银联可信服务安全组件小米版本",
+      "enable": true,
+      "activityRules": {
+        "com.unionpay.uppay.PayActivity": {
+          "mode": 2,
+          "color": null,
+          "sf_sampling_mode": 0,
+          "dialogMode": 1,
+          "popupMode": 1,
+          "appNavColorDisabled": 0
+        }
+      }
     }
   }
 }
