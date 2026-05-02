@@ -5008,6 +5008,20 @@
         }
       }
     },
+    "com.miui.nextpay": {
+      "name": "小米智能卡网页组件",
+      "enable": true,
+      "activityRules": {
+        "com.miui.nextpay.hybrid.HybridActivity": {
+          "mode": 2,
+          "color": null,
+          "sf_sampling_mode": 0,
+          "dialogMode": 1,
+          "popupMode": 1,
+          "appNavColorDisabled": 0
+        }
+      }
+    },
     "com.moji.mjweather": {
       "name": "",
       "enable": true,
@@ -11891,20 +11905,6 @@
       "enable": true,
       "activityRules": {
         "*": {
-          "mode": 2,
-          "color": null,
-          "sf_sampling_mode": 0,
-          "dialogMode": 1,
-          "popupMode": 1,
-          "appNavColorDisabled": 0
-        }
-      }
-    },
-    "com.miui.nextpay": {
-      "name": "小米智能卡网页组件",
-      "enable": true,
-      "activityRules": {
-        "com.miui.nextpay.hybrid.HybridActivity": {
           "mode": 2,
           "color": null,
           "sf_sampling_mode": 0,
