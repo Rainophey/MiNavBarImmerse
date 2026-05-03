@@ -10489,6 +10489,14 @@
           "popupMode": 1,
           "appNavColorDisabled": 0
         },
+        "laa.y": {
+          "mode": 2,
+          "color": null,
+          "sf_sampling_mode": 0,
+          "dialogMode": 1,
+          "popupMode": 1,
+          "appNavColorDisabled": 0
+        },
         "com.xingin.reactnative.ui.XhsReactActivity": {
           "mode": 0,
           "color": null,
